@@ -1,3 +1,7 @@
+![IMG-20240309-WA0036](https://github.com/acaicomdados/acaicomdados/assets/160957403/d5c57096-9205-4f08-8d1b-1000a688870c)
+
+
+
 - Somos uma comunidade com o objetivo de fomentar a área de dados no Estado do Pará e na região Norte do Brasil
 - Seja com palestras, eventos e etc
 
